@@ -4,6 +4,8 @@
   "author": "Xinos",
   "id": "dev.yskra.iframePlayer",
   "source": "https://yskra.github.io/iframe-player-plugin/iframe_player.js",
+  "homepageUrl": "https://github.com/Yskra/iframe-player-plugin",
+  "supportUrl": "https://github.com/Yskra/iframe-player-plugin/issues",
   "license": "MPL-2.0",
   "apiVersion": 0
 }
