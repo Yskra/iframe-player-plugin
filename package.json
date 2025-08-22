@@ -15,7 +15,7 @@
 		"build:proxy": "vite --config workerd/vite.config.js build",
 		"build:plugin": "vite build --config plugin/vite.config.js",
 		"build:injected": "vite build --config injected/vite.config.js",
-		"deploy:proxy": "wrangler deploy dist/iframe_inject_proxy/main.js"
+		"deploy:proxy": "wrangler deploy"
 	},
 	"packageManager": "pnpm@9.12.2",
 	"author": "userXinos [github.com]",
