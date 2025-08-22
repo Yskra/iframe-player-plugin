@@ -1,0 +1,9 @@
+{
+  "name": "Iframe Player",
+  "version": "1.0.0",
+  "author": "Xinos",
+  "id": "dev.yskra.iframePlayer",
+  "source": "https://yskra.github.io/iframe-player-plugin/iframe_player.js",
+  "license": "MPL-2.0",
+  "apiVersion": 0
+}
